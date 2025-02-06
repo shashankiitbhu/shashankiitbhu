@@ -7,53 +7,73 @@
 
 ---
 
-### 🚀 About Me  
-- 💻 Passionate about **Android development** and **backend systems**  
-- ⚡ Experienced in **Kotlin, Java, Go, PHP, SQL, MongoDB**  
-- 💬 Ask me about **Android, Backend, System Design, Databases**  
-- 📫 Reach me at **shashank.kumar.phe22@itbhu.ac.in**  
+## 🚀 **About Me**
+- 🏆 **Selected Contributor** in **Google Summer of Code 2024** (Robolectric)  
+- 🎓 **LFX Mentorship 2024** Mentee at **Hyperledger (Web3j)**
+- 📱 Passionate about building **Android apps** & scalable **backend systems**
+- 💬 Ask me about **Android, Kotlin, Java, Go, PHP, SQL, Laravel, MongoDB**
+- 📫 Reach me at **shashank.kumar.phe22@itbhu.ac.in**
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ **Skills & Tools**
+
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Mobile & Web Development**
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230071C5.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankiitbhu&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankiitbhu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankiitbhu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>  
+## 📝 **Blog Posts**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankiitbhu&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankiitbhu" alt="GitHub Streak" />
-</p>
+I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Medium](https://medium.com/@shashankkumar45556)!
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashank-kumar-7349281b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/shashank-k-606" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shashank.kumar.phe22@itbhu.ac.in">
