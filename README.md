@@ -67,7 +67,7 @@
 
 ## 📝 **Blog Posts**
 
-I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Medium](https://medium.com/@shashankkumar45556)!
+I occasionally write about DevOps, app development, and programming. Check out my latest posts on [Medium](https://medium.com/@shashankkumar45556)!
 
 ---
 
