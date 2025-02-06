@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
-<h3 align="center">Android & Backend Developer</h3>
+<h3 align="center">B.tech Student, IIT (BHU) Varanasi </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankiitbhu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
